@@ -1,0 +1,5 @@
+Nombre: Emanuel Jimenez
+Carné: 0905-23-10682
+Fecha del examen: 01-03-2025
+Enlace al video explicativo: https://drive.google.com/drive/folders/1YHZkn7XOcBqxYP-k6ozBjf9HG2hEN3aB?usp=sharing
+Enlace al repositorio: https://github.com/EmanuelJC12/Examen_Progra1.git
